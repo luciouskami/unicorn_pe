@@ -24,9 +24,16 @@
 *.lai
 *.la
 *.a
-*.lib
+
 
 # Executables
 *.exe
 *.out
 *.app
+/.vs/unicorn_pe/v15
+/.vs
+/build/x64/Debug
+/build/x64/Debug(DLL)
+/obj/x64
+/unicorn_pe/x64/Debug
+/x64/Debug
